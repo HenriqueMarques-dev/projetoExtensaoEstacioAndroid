@@ -39,6 +39,6 @@
 
 ```bash
 git clone https://github.com/HenriqueMarques-dev/projetoExtensaoEstacioAndroid.git
-cd gestorx
+cd projetoExtensaoEstacioAndroid
 npm install
 npx expo start
