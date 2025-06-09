@@ -33,7 +33,7 @@
 
 | Lista de Vendas | Feedback de Sucesso |
 |:---------------:|:-------------------:|
-| ![Lista](./assets/readme/3.png) | ![Sucesso](./assets/readme/4.png) |
+| ![Cadastro de venda](./assets/readme/3.png) | ![Lista](./assets/readme/4.png) |
 
 ## 📦 Como Executar
 
