@@ -29,11 +29,11 @@
 
 | Tela de Login | Cadastro de Venda |
 |:-------------:|:------------------:|
-| ![Login](./assets/print1.png) | ![Cadastro](./assets/print2.png) |
+| ![Login](./assets/readme/1.png) | ![Cadastro](./assets/readme/2.png) |
 
 | Lista de Vendas | Feedback de Sucesso |
 |:---------------:|:-------------------:|
-| ![Lista](./assets/print3.png) | ![Sucesso](./assets/print4.png) |
+| ![Lista](./assets/readme/3.png) | ![Sucesso](./assets/readme/4.png) |
 
 > 📂 Coloque as imagens dos prints na pasta `assets/` com os nomes `print1.png`, `print2.png`, etc.
 
@@ -42,7 +42,7 @@
 ## 📦 Como Executar
 
 ```bash
-git clone https://github.com/seu-usuario/gestorx
+git clone https://github.com/HenriqueMarques-dev/projetoExtensaoEstacioAndroid.git
 cd gestorx
 npm install
 npx expo start
