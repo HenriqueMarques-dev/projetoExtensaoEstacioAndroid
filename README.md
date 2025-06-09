@@ -35,10 +35,6 @@
 |:---------------:|:-------------------:|
 | ![Lista](./assets/readme/3.png) | ![Sucesso](./assets/readme/4.png) |
 
-> 📂 Coloque as imagens dos prints na pasta `assets/` com os nomes `print1.png`, `print2.png`, etc.
-
----
-
 ## 📦 Como Executar
 
 ```bash
